@@ -16,35 +16,12 @@ This repository contains solutions to a broad range of **coding interview proble
 - 🗂️ Problem-wise directory organization
 - 🔎 Practice across arrays, strings, trees, graphs, searching, and more
 - 🎯 Useful reference for DSA and placement preparation
-
-## 📂 Structure
-
-```text
-Data Structures & Algorithms/
-├── 4sum/
-├── accounts-merge/
-├── add-binary/
-├── add-two-numbers/
-├── anagram-groups/
-├── binary-search/
-├── binary-tree-diameter/
-├── ...
-└── <problem>/submission-*.<language>
-```
-
-Each problem is kept in its own directory, making solutions easy to locate and review. fileciteturn17file0
-
-## 🛠️ Languages
-
-**C++ · Java · Python**
-
-The repository demonstrates implementation of the same problem-solving concepts across multiple programming languages where applicable.
-
-## 💼 Placement Value
-
-This repository demonstrates consistent hands-on practice with:
-
-**Data Structures · Algorithms · Problem Solving · Competitive Programming · Multiple Programming Languages · Technical Interview Preparation**
+### 🔝 Top Contributed Repo
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shriram-02/shriram-02/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shriram-02/shriram-02/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/shriram-02/shriram-02/output/github-contribution-grid-snake.svg">
+</picture>
 
 📖 **[View Documentation](https://ncpotd.netlify.app/)**
 
